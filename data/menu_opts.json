@@ -1,0 +1,39 @@
+{
+    "appName": "Components",
+    "routes": [{
+            "route": "alert",
+            "icon": "add_alert",
+            "text": "Alerts"
+        },
+        {
+            "route": "avatar",
+            "icon": "accessibility",
+            "text": "Avatars"
+        },
+        {
+            "route": "card",
+            "icon": "folder_open",
+            "text": "Cards "
+        },
+        {
+            "route": "animated",
+            "icon": "donut_large",
+            "text": "Animated Container"
+        },
+        {
+            "route": "inputs",
+            "icon": "input",
+            "text": "Inputs"
+        },
+        {
+            "route": "slider",
+            "icon": "slider",
+            "text": "Sliders"
+        },
+        {
+            "route": "list",
+            "icon": "list",
+            "text": "ListView"
+        }
+    ]
+}
