@@ -1,16 +1,16 @@
-# components
+# Components-dart
 
-A new Flutter project.
+In this project you can find a poc of most-used components in Flutter:
+  * Alert Dialog
+  * List views
+  * Cards
+  * Animated Containers
+  * Inputs
+  * Sliders
+  * Pull to Refresh
+  * Infinite Scroll
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Run this application on VS Code with Flutter plugin previously installed and run the command of Flutter SDK then emulate an android device to try this components.
